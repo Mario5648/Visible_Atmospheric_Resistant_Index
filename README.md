@@ -13,13 +13,5 @@ important to equip farmers with the state of the art technology in order to pull
 I wrote this script to show how simple it can be to analyze field health.
 
 
-## Input
-![This is an image](https://raw.githubusercontent.com/Mario5648/Visible_Atmospheric_Resistant_Index/main/test_images/test1.png)  
-
-
-## Output
-![This is an image](https://raw.githubusercontent.com/Mario5648/Visible_Atmospheric_Resistant_Index/main/images/example_output.png)  
-
-
-## Result using Normalized difference vegetation index (Expensive Solution)
-![This is an image](https://raw.githubusercontent.com/Mario5648/Visible_Atmospheric_Resistant_Index/main/images/actual_result.png) 
+## Comparison
+![This is an image](https://raw.githubusercontent.com/Mario5648/Visible_Atmospheric_Resistant_Index/main/images/comparison.jpg)  
